@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest Gallery & Sharing App",
+  "description": "A visually stunning Pinterest-like photo discovery and sharing platform. Includes modern layout grids, smooth animations, boards management, social interaction models, and profile discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
